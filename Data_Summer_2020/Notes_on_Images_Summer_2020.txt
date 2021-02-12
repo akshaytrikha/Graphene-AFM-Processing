@@ -1,0 +1,11 @@
+First set (___NPB01-04):
+Sample (2,1) from JS exfoliation set 2-19-2020 (SPI-3)
+Fixed exposure time (50 ms), varying lamp intensity (roughly min to max)
+No gamma/filters/smoothing/RGB corrections
+Standard capture
+
+Second set (___NPB05-08):
+Sample (2,1) from JS exfoliation set 2-19-2020 (SPI-3)
+Auto-exposed, varying lamp intensity (roughly min to max)
+No gamma/filters/smoothing/RGB corrections
+HDR Capture (takes a long time)
